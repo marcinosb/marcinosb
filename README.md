@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @marcinosb
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Pytest/Django
-- 💞️ I’m looking to collaborate on Python/PyTest projects as well as Django :)
 - 📫 How to reach me marcinosb@gmail.com
 
 <!---
